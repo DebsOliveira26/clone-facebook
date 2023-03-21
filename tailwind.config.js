@@ -3,6 +3,7 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {
+      //configurações gerais para o projeto - espaçamentos, fonte e cores.
       spacing: {
         '30':'7.5rem',
         '290px':'290px',
